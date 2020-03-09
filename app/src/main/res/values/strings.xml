@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Braino</string>
+    <string name="start">START</string>
+    <string name="_30s">30s</string>
+    <string name="_1_5">0/0</string>
+    <string name="_1_3">20+20</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="correct"></string>
+    <string name="play_again">Play Again</string>
+</resources>
